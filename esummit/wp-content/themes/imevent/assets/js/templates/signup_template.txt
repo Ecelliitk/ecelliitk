@@ -1,0 +1,10 @@
+Hi {NAME},
+         Congratulations!! You have been successfully registered for E-Summit’15. 
+                        
+         You have completed online registration for the Summit. Now, you can register for the events you wish to participate in. We shall be releasing our Competitions and Workshops shortly.
+You shall witness some very successful entrepreneurs sharing their stories of success and failure. Workshops shall be the interactive sessions helping you understand the tactics of business and entrepreneurship.And finally the competitions will be a test of your potential to make an impactful presence in the entrepreneurial world.The annual flagship event of IIT Kanpur was effectuated with the intention to foster entrepreneurial initiatives aiming to provide a common platform to all those passionate about entrepreneurship. Sharing of experiences, discussion of ideas and opportunities will be a profuse learning experience for the active leaders in the savant community who can then disperse these ideas further.
+
+Stay tuned for further details about the competitions and the associated prizes.
+Regards,
+Team E-Cell,
+IIT Kanpur
